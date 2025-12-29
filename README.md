@@ -166,8 +166,9 @@ You can view:
 
 ## 🌐 Live Demo
 
-* **Frontend Live Link**: [https://your-frontend-live-link.vercel.app](https://your-frontend-live-link.vercel.app)
-* **Backend API Live Link**: [https://your-backend-live-link.onrender.com/api/articles](https://your-backend-live-link.onrender.com/api/articles)
+- Frontend: https://your-vercel-live-link.vercel.app
+- Backend API: https://beyondchats-internship-assignment-production.up.railway.app/api/articles
+
 
 ---
 
