@@ -6,8 +6,7 @@ function App() {
   const [activeTab, setActiveTab] = useState({});
 
   useEffect(() => {
-    axios
-      .get("http://localhost:5000/api/articles")
+    axios.get(import.meta.env.VITE_API_URL + "/api/articles")
       .then(res => setArticles(res.data))
       .catch(err => console.error(err));
   }, []);
